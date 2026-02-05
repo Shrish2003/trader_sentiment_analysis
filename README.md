@@ -14,7 +14,7 @@ The goal is to uncover **patterns and insights** that can inform **smarter, risk
    - Columns include: date, classification (Fear, Extreme Fear, Neutral, Greed, Extreme Greed)
    - Used to represent overall market sentiment on a daily basis
 
-2. **Hyperliquid Historical Trader Data**
+2. **Historical Trader Data**
    - Contains trader-level execution details such as:
      - Account
      - Trade size
