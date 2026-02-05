@@ -10,7 +10,7 @@ The goal is to uncover **patterns and insights** that can inform **smarter, risk
 ---
 
 ## 📂 Datasets Used
-1. **Bitcoin Fear & Greed Index**
+1. **Fear & Greed Index**
    - Columns include: date, classification (Fear, Extreme Fear, Neutral, Greed, Extreme Greed)
    - Used to represent overall market sentiment on a daily basis
 
